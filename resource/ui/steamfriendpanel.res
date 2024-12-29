@@ -71,7 +71,7 @@
 		"wrap"		"0"
 		"labelText"		"%status%"
 		"proportionaltoparent"		"1"
-		"font"		"Defaultsmall"
+		"font"		"FontStorePriceSmall"
 		"fgcolor_override"		"White"
 		"mouseinputenabled"		"0"
 	}

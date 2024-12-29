@@ -8,6 +8,11 @@ alias "test" "sv_allow_point_servercommand always; map tr_walkway_rc2"
 
 dev 
 
+//
+//  minmode 0 - 1024  4:3
+// minmode 1 - 1980 16:9
+cl_hud_minmode 0
+glow_outline_effect_enable 0
 exec "joystick.cfg"
 exec "autoexec.cfg"
 startupmenu

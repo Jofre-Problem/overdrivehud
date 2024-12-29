@@ -55,7 +55,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldname"		"ResumeGameButton"
 		xPos					rs1
-		yPos					c75-24-10-24-10
+		yPos					c75-24-10-24-10-24-10
 		wide					p0.415
 		tall					24
 		"visible"		"1"
@@ -469,7 +469,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"		"DELADO_Create"
-		"xpos"		"230"
+		"xpos"		"0+p0.28"
 		"ypos"		"c40"
 		"zpos"		"2"
 		"wide"		"20"
@@ -538,7 +538,7 @@
 				"xpos"			"0"
 				"ypos"			"5"
 				"zpos"			"1"
-				"wide"			"14"
+				"wide"			"20"
 				"tall"			"o1"
 				"visible"		"1"
 				"enabled"		"1"
@@ -667,10 +667,10 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldname"		"FriendsContainer"
-		"xpos"		"55"
+		"xpos"		"0+p0.07"
 		"ypos"		"284"
 		"zpos"		"5"
-		"wide"		"140"
+		"wide"		"p0.16"
 		"tall"		"165"
 		"border"		"NoBorder"
 

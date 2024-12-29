@@ -4,19 +4,19 @@
 	{
 		"label"			"NEW GAME"
 		"command"		"find_game"
-		"OnlyAtMenu"	"1"
+	//	"OnlyAtMenu"	"1"
 	}
 	"FindGameDummy"
 	{
 		"label"			"NEW GAME"
 		"command"		"find_game"
-		"OnlyAtMenu"	"1"
+	//	"OnlyAtMenu"	"1"
 	}	
 	"FindGameButton_IG"
 	{
 		"label"			"NEW GAME"
 		"command"		"find_game"
-		"OnlyInGame"	"1"
+	//	"OnlyInGame"	"1"
 	}
 	
 	"ResumeGameButton"

@@ -393,7 +393,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"xpos"										"rs1-5"
-		"ypos"										"19"
+		"ypos"										"88"
 		"wide"										"628"
 		"tall"										"468"
 		"MaxDeathNotices"							"6"
@@ -578,7 +578,19 @@
 		"enabled"									"1"
 		"wide"										"640"
 		"tall"										"f0"
+		"pin_to_sibling" "godbye"
 	}
+	"godbye"
+	{
+		"ControlName"			"CExLabel"
+		"fieldName"				"godbye"
+		"xpos"					"9999"
+		"ypos"					"27"
+		"wide"					"50"
+		"tall"					"15"
+		"visible"				"1"
+		"enabled"				"1"
+	}	
 	"HudScopeCharge"
 	{
 		"fieldName"									"HudScopeCharge"

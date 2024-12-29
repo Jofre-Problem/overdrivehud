@@ -4,8 +4,10 @@
 	{
 		"ControlName"								"Panel"
 		"fieldName"									"AmmoAnchor"
-		"xpos"										"c-150"
-		"ypos"										"r100"
+		"xpos"										"0+p0.29"
+		"ypos"										"0+p0.775"
+		"xpos_minmode"			"0+p0.28"
+		"ypos_minmode"			"0+p0.79"		
 		"zpos"										"0"
 		"wide"										"2"
 		"tall"										"40"
@@ -16,10 +18,10 @@
 	{
 		"ControlName"								"ImagePanel"
 		"fieldName"									"ammoimagebackup"
-		"xpos"										"160"
+		"xpos"										"0+p0.13"
 		"ypos"										"r125"
 		"zpos"										"-7"
-		"wide"										"395"
+		"wide"										"p0.5"
 		"tall"										"o0.5"
 		"visible"									"1"
 		"enabled"									"1"
@@ -41,12 +43,12 @@
 		"enabled"									"1"
 		"textAlignment"								"west"
 		"labelText"									"%Ammo%"
-		"font"										"lucy20"
+		"font"										"lucy40"
 		"fgcolor"									"White"
 
 		"pin_to_sibling"							"AmmoAnchor"
-		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"						"PIN_TOPLEFT"
+		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
+		"pin_to_sibling_corner"						"PIN_CENTER_TOP"
 	}
 	"AmmoInClipShadow"
 	{
@@ -61,8 +63,8 @@
 		"enabled"									"1"
 		"textAlignment"								"west"
 		"labelText"									"%Ammo%"
-		"font"										"HudFontBiggerBold"
-		"fgcolor"									"LabelTransparent"
+		"font"										"lucy40"
+		"fgcolor"									"black"
 
 		"pin_to_sibling"							"AmmoInClip"
 	}
@@ -79,8 +81,8 @@
 		"enabled"									"1"
 		"textAlignment"								"west"
 		"labelText"									"%AmmoInReserve%"
-		"font"										"HudFontMediumSmallBold"
-		"fgcolor"									"White"
+		"font"										"lucy40"
+		"fgcolor"									"255 255 0 255"
 
 		"pin_to_sibling"							"AmmoAnchor"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -99,8 +101,8 @@
 		"enabled"									"1"
 		"textAlignment"								"west"
 		"labelText"									"%AmmoInReserve%"
-		"font"										"HudFontMediumSmallBold"
-		"fgcolor"									"LabelTransparent"
+		"font"										"lucy40"
+		"fgcolor"									"black"
 
 		"pin_to_sibling"							"AmmoInReserve"
 	}

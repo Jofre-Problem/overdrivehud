@@ -598,7 +598,23 @@
 		"lucy44"
 		{
 			"1" { "name" "FrankentypePersonalUseOnly" "tall" "44" "antialias" "1" }
-		}						
+		}
+		"lucy50"
+		{
+			"1" { "name" "FrankentypePersonalUseOnly" "tall" "50" "antialias" "1" }
+		}		
+		"lucy54"
+		{
+			"1" { "name" "FrankentypePersonalUseOnly" "tall" "54" "antialias" "1" }
+		}	
+		"lucy60"
+		{
+			"1" { "name" "FrankentypePersonalUseOnly" "tall" "60" "antialias" "1" }
+		}		
+		"lucy64"
+		{
+			"1" { "name" "FrankentypePersonalUseOnly" "tall" "64" "antialias" "1" }
+		}								
 		"Marlett"
 		{
 			"1" { "name" "Marlett" "tall" "20" "symbol" "1" "range" "0x0000 0x007F" }
