@@ -15,9 +15,9 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"46 43 42 255"
-		"infocus_bgcolor_override" "46 43 42 255"
-		"outoffocus_bgcolor_override" "46 43 42 255"
+		"bgcolor_override"	"0 0 0 255"
+		"infocus_bgcolor_override" "0 0 0 255"
+		"outoffocus_bgcolor_override" "0 0 0 255"
 				zpos 999
 		"selectlabely_default"		"25"
 		"selectlabely_onchanges"	"15"
@@ -34,7 +34,19 @@
 		"itemcountcolor"			"200 80 60 255"
 		"itemcountcolor_noitems"	"117 107 94 255"
 	}
-	
+				"LoadoutBG"
+				{
+					"ControlName"	"ImagePanel"
+					"xpos"			"0"
+					"ypos"			"0"
+					"zpos" "0"
+					"wide"			"f0"
+					"tall"			"f0"
+					"visible"		"1"
+					"proportionaltoparent"	"1"
+					"image"			"replay/thumbnails/loadout"
+					"scaleImage"		"1"
+				}		
 	"scout"
 	{
 		"ControlName"		"ImageButton"
@@ -551,7 +563,7 @@
 		"ypos"				"0"
 		
 		"wide"				"f0"
-		"tall"				"400"
+		"tall"				"f0"
 		"zpos"				"500"
 		"visible"			"0"
 	}
