@@ -73,7 +73,7 @@
 		"ypos"					"-2"
 		"zpos"					"2"
 		"wide"					"p1"
-		"wide_minmode"					"p0.8"
+		"wide_minmode"					"p1.2"
 		"tall"					"35"				
 		"visible"				"1"
 		"enabled"				"1"
