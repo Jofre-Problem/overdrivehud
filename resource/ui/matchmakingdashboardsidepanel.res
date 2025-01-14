@@ -115,9 +115,9 @@
 
 		"textAlignment"	"east"
 		"font"			"HudFontSmallBold"
-
+		paintBackground 0
 		"armedBgColor_override"	"0 0 0 0"
-		"defaultBgColor_override"	"0 0 0 0"
+		"defaultfgColor_override"	"red"
 
 		"armedFgColor_override"	"Orange"
 	}
