@@ -70,11 +70,11 @@
 		"fieldName"				"ksbar"
 		"font"					"default"
 		"xpos"					"0"
-		"ypos"					"-7"
+		"ypos"					"-2"
 		"zpos"					"2"
-		"wide"					"p1.2"
+		"wide"					"p1"
 		"wide_minmode"					"p0.8"
-		"tall"					"33"				
+		"tall"					"35"				
 		"visible"				"1"
 		"enabled"				"1"
 		"variable" "progresscount"
@@ -113,7 +113,21 @@
 		"scaleImage"								"1"
 		"image"										"replay/thumbnails/ksbg2"
 	}			
-
+	"refracttt"
+	{
+		"ControlName"								"ImagePanel"
+		"fieldName"									"refracttt"
+		"xpos"										"rs1"
+		"ypos"										"20"
+		"zpos"										"51"
+		"wide"		"20"
+		"tall"		"40"
+		"visible"									"1"
+		"enabled"									"1"
+		"scaleImage"								"1"
+		"image"										"replay/thumbnails/hp/REFRACTnormal"
+		"fgcolor"									"TanDark"
+	}	
 	"ItemEffectMeter"
 	{	
 		"ControlName"			"ContinuousProgressBar"

@@ -28,7 +28,7 @@
 		"visible"									"1"
 		"PaintBackgroundType"						"0"
 		"paintbackground"							"1"
-		"bgcolor_override"							"FooterBGBlack"
+		"bgcolor_override"							"0 0 0 255"
 		"proportionaltoparent"						"1"
 	}
 	"Title"

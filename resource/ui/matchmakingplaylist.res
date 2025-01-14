@@ -62,8 +62,8 @@
 	{
 			"ControlName"								"CPlayListEntry"
 		"fieldName"									"ServerBrowserEntry"	
-		"xpos"										"cs-0.5"
-		"ypos"										"cs-0.5-35"
+		"xpos"										"cs-0.5+75"
+		"ypos"										"cs-0.5+20"
 		"zpos"										"3"
 		"wide"										"150"
 		"tall"										"190"
@@ -104,7 +104,7 @@
 		"ypos"										"0"
 		"zpos"										"3"
 		"wide"										"150"
-		"tall"										"190"
+		"tall"										"0"
 		"proportionaltoparent"						"0"
 
 		"image_name"								"replay/thumbnails/sfm/menu_mode_singleplayer"

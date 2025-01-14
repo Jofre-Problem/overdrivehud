@@ -31,7 +31,7 @@
 		"proportionaltoparent"	"1"
 		"scaleimage"	"1"
 		"mouseinputenabled"	"0"
-		"alpha"		"180"
+		"alpha"		"0"
 
 		"image"		"gradient_pure_black"
 	}
@@ -43,7 +43,7 @@
 		"xpos"		"3"
 		//"ypos"		"0"
 		"wide"		"30"
-		"tall"		"f0"
+		"tall"		"0"
 		"zpos"	"1000"
 		//"visible"		"1"
 		
@@ -62,7 +62,7 @@
 		"xpos"		"rs1"
 		//"ypos"		"0"
 		"wide"		"20"
-		"tall"		"f0"
+		"tall"		"0"
 		"zpos"	"1000"
 		//"visible"		"1"
 		
@@ -130,7 +130,7 @@
 		"tall"			"f-20"
 		//"visible"		"1"
 		"proportionaltoparent"	"1"
-
-		"border"		"MainMenuBGBorder"
+		"bgcolor_override" "0 0 0 255"
+		"border"		"noborder"
 	}
 }
